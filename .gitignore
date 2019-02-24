@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycache__
+dgirls
+/static
+.DS_Store
